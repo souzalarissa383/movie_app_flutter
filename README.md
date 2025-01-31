@@ -15,7 +15,7 @@ Um aplicativo Flutter para explorar filmes populares, ver detalhes de filmes e d
 ## **Funcionalidades**
 
 - **Catálogo de Filmes Populares**: Exibe uma lista de filmes populares.
-- **Detalhes do Filme**: Mostra informações detalhadas sobre um filme, como título, popularidade e lista de filmes similares.
+- **Detalhes do Filme**: Mostra informações detalhadas sobre um filme, como título, numero de visualizacoes, quantidade de likes e lista de filmes similares.
 - **Like/Deslike**: Permite ao usuário curtir ou descurtir um filme.
 
 ---
