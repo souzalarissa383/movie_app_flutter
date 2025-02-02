@@ -46,7 +46,7 @@ Antes de começar, certifique-se de ter o seguinte instalado:
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/app_flutter.git
+   git clone https://github.com/seu-usuario/movie_app_flutter.git
    cd movie_app_flutter
 
 2. **Instale as dependências**:
