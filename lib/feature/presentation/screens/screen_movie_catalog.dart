@@ -30,7 +30,7 @@ class CatalogoFilmesScreen extends StatelessWidget {
                   crossAxisCount: _calculateCrossAxisCount(context),
                   crossAxisSpacing: 8.0,
                   mainAxisSpacing: 8.0,
-                  childAspectRatio: 0.6, // Ajuste este valor conforme necessário
+                  childAspectRatio: 0.6, 
                 ),
                 itemCount: state.movie.length,
                 itemBuilder: (context, index) {
